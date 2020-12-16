@@ -1,4 +1,4 @@
-# Example to fetch data from api.openweathermap.org
+// Example to fetch data from api.openweathermap.org
 $(function() {
     fetchApiData();
 });
